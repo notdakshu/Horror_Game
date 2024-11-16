@@ -1,5 +1,7 @@
 Our First Indie Psychological Suspense Horror Game focused on a Fractured Reality.
 
+................................................................................................
+
 Description:
 In the quiet stillness of a peaceful town, one student's journey home takes a dark turn as reality begins to fracture.
 "Fragments of Reality" is a psychological horror experience that explores the unsettling power of stress and mental instability.
@@ -12,7 +14,9 @@ As you move through the house, you’ll experience vivid hallucinations and unse
 The boundary between reality and delusion becomes increasingly difficult to decipher as you uncover distorted memories, conflicting perceptions, and hidden truths.
 Each step you take in the game pulls you deeper into the disorienting maze of your mind.
 
-Can you uncover the truth before it consumes you, or are you trapped in a cycle of your own fractured reality? 
+Can you uncover the truth before it consumes you, or are you trapped in a cycle of your own fractured reality?
+
+................................................................................................
 
 Description (Revised):
 Return to a place you once called home... only to find it no longer feels familiar.
