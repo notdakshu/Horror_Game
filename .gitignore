@@ -1,0 +1,21 @@
+# Ignore binary and intermediate files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore user-specific settings
+*.sln
+*.suo
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+*.log
+
+# Ignore Build artifacts
+Build/Android/
+Build/IOS/
+
+# Ignore debug symbols
+*.pdb
+*.dbg
