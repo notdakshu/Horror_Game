@@ -1,7 +1,7 @@
 Our First Indie Psychological Suspense Horror Game focused on a Fractured Reality.
 
 ## Demo Video
-[![Watch the demo](https://img.youtube.com/vi/irEayhT3dME/0.jpg)](https://youtu.be/irEayhT3dME)
+[![Watch the demo](https://img.youtube.com/vi/irEayhT3dME/0.jpg)](https://youtu.be/irEayhT3dME) <br>
 ................................................................................................
 
 Description:
